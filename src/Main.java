@@ -24,7 +24,7 @@ wether their guess was too high or too low
 - If the guess was correct, congratulate the user and close the app or start over */
 
     public static void main(String[] args) {
-        launch(args);  //creates a stage for us, to do our stuff lol. Stages are widnows.
+        launch(args);  
     }
 
 
